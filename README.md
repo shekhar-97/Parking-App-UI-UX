@@ -23,4 +23,13 @@ Now i will name all the wireframes in the order they appear to the user and try 
                    If a student clicks on a marking on the map that marking will take user to another tab named "spot details", which 
                    will let the student know about all the details related to that specific parking spot which that marking on the map
                    represents.
-               
+5. Available tab : This tab is generated when any user clicks on the "available" button in the dashboard in "2 wheeler app". This tab
+                   enables user to know how many parking spots are available near it's location.
+6. Booked tab : This tab is generated when any user clicks on the "booked" button in the dashboard in "2 wheeler app". This tab
+                enables user to know how many parking spots are already booked near it's location.
+7. Handicap tab : This tab is generated when any user clicks on the "handicap" button in the dashboard in "2 wheeler app". This tab
+                   enables user to know how many parking spots are reserved for handicapped people near it's location.
+8. Faculty tab : This tab is generated when any user clicks on the "faculty" button in the dashboard in "2 wheeler app". This tab
+                 enables user to know how many parking spots are available near it's location which are reserved for the faculties of the                    college.
+9. Spot Details tab : This tab is generated when an user clicks on the markings of the map which shows the near by parking spots, this                         tab gives the details about the specific parking spot, details include exact Location of the spot, Availability of                       the spot wether the spot is available or not. Timing which tells the user about the time span in which the spot                         is available. Tariff on the spot if any. Security which lets the user know how safe that spot is. Vehicle type                           which tells the user what that spot is for, 2 wheeler or 4 wheeler. Help, which gives the user necessary contact 
+                      information of the spot operator.
