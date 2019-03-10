@@ -1,5 +1,5 @@
 # Parking-App-UI-UX
-This contains wire-frames for an android app used to find parking spots in our university.
+This project contains wire-frames for an android app used to find parking spots in our university.
 I used the Balsamiq software for designing the wireframes.
 All the wireframes are in .png format.
 This also contains a video to show how all the wireframes are connected to each other to make one smooth user experience.
