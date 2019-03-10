@@ -6,9 +6,11 @@ This also contains a video to show how all the wireframes are connected to each 
 Video is compressed into "ParkOne-Designs.rar".
 The wireframes and their functionalities are explained below in the order they appear to the user.
 
-1. Home tab : This is the first tab the user will see after opening the application. It gives the user to choose from two option buttons
+1. Home tab : 
+This is the first tab the user will see after opening the application. It gives the user to choose from two option buttons
               named "2 wheeler" or "4 wheeler" depending on what the vehicle of the user. The home tab also offers a link for existing                 users to login and a link for new users to sign up into application.
-2. Nav Bar  : This is the navigation bar which helps user to move through the application from the home tab itself. The navigation
+2. Nav Bar  : 
+This is the navigation bar which helps user to move through the application from the home tab itself. The navigation
               bar contains links to the bookinng tab, login/sign up, 2 wheelers tab, 4 wheelers tab, Location and help.
 3. Login tab : This gives user different options to create an account or log in into an existing one. This tab contains options 
                for users to directly link their facebook account or google account or create an account using email address or phone
